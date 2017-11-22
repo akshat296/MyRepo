@@ -1,5 +1,7 @@
 {
 
     hello:"hello",
-    akshat: "akshat"
+    akshat: "akshat",
+    abc: 'test 1',
+    abc: 'test 2'  
 };
