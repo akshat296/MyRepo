@@ -3,7 +3,6 @@
     hello : 'hello',
     akshat:  'akshat',
     anuj:"Anuj",
-    anuj:"Anuj 2",
-    test:"Test"
+    anuj:"Anuj 2"
 
 };
